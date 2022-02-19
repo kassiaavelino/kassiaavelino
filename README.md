@@ -22,6 +22,8 @@
  <a href = "mailto:kassia11919@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
   
+  ![Snake animation](https://github.com/kassiaavelino/kassiaavelino/blob/output/github-contribution-grid-snake.svg)
+  
 <!--
 **kassiaavelino/kassiaavelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
