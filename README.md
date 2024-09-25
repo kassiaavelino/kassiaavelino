@@ -1,26 +1,27 @@
-### Oiiie! Eu sou a Kássia
+# Oiie, me chamo Kássia! ^.^
 
-<div align="center">
-  <a href="https://github.com/kassiaavelino/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kassiaavelino&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassiaavelino&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-  
-##
-  
-<div>  
- <a href="https://www.linkedin.com/in/kassia-avelino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  
- <a href = "mailto:kassia11919@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+## Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-008080?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/kassia-avelino/)
+[![Instagram](https://img.shields.io/badge/-Instagram-008080?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/kassia.avelino/)
+[![GitHub](https://img.shields.io/badge/GitHub-008080?style=for-the-badge&logo=github&logoColor=black)](https://github.com/kassiaavelino)
+
+
+## Habilidades 
+
+![JavaScript](https://img.shields.io/badge/JavaScript-008080?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-008080?style=for-the-badge&logo=python&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-008080?style=for-the-badge&logo=html5&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-008080?style=for-the-badge&logo=css3&logoColor=black)
+
+## Github Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kassiaavelino&theme=transparent&bg_color=008080&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=000000)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kassiaavelino&layout=compact&bg_color=008080&border_color=FFF&title_color=000000&text_color=FFF)
+
+# Minhas contribuições
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kassiaavelino&repo=dio-lab-open-source&bg_color=008080&border_color=FFF&show_icons=true&icon_color=000000&title_color=000000&text_color=FFF)](https://github.com/kassiaavelino/dio-lab-open-source)
   
   ![Snake animation](https://github.com/kassiaavelino/kassiaavelino/blob/output/github-contribution-grid-snake.svg)
   
