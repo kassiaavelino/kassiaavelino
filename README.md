@@ -16,6 +16,7 @@
 ## Github Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kassiaavelino&theme=transparent&bg_color=008080&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=FFF&text_color=000000)
+
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kassiaavelino&layout=compact&bg_color=008080&border_color=FFF&title_color=000000&text_color=FFF)
 
 # Minhas contribuições
