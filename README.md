@@ -23,7 +23,11 @@
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=kassiaavelino&repo=dio-lab-open-source&bg_color=008080&border_color=FFF&show_icons=true&icon_color=000000&title_color=000000&text_color=FFF)](https://github.com/kassiaavelino/dio-lab-open-source)
   
-  ![Snake animation](https://github.com/kassiaavelino/kassiaavelino/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kassiaavelino/kassiaavelino/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kassiaavelino/kassiaavelino/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kassiaavelino/kassiaavelino/output/github-contribution-grid-snake.svg">
+</picture>
   
 <!--
 **kassiaavelino/kassiaavelino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
